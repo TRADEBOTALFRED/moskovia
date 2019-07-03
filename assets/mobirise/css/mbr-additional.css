@@ -6179,6 +6179,24 @@ body {
     font-size: 40px !important;
   }
 }
+.cid-rv9bYWLZc9 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rv9bYWLZc9 .mbr-text {
+  color: #767676;
+}
+.cid-rv9bYWLZc9 h4 {
+  text-align: center;
+}
+.cid-rv9bYWLZc9 p {
+  text-align: center;
+}
+.cid-rv9bYWLZc9 .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
 .cid-rtW5spEkyK {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -6312,6 +6330,9 @@ body {
   .cid-rtW63zMAkz .mbr-form .row > * {
     padding: 0 0.5rem;
   }
+}
+.cid-rtW63zMAkz H2 {
+  text-align: left;
 }
 .cid-rtW8WTbQCg {
   padding-top: 60px;
@@ -7752,23 +7773,50 @@ body {
     height: calc(100% - 56px);
   }
 }
-.cid-ru22uJQ51S {
-  padding-top: 45px;
-  padding-bottom: 15px;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
+.cid-rv9dxCy6BE {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
-.cid-ru22uJQ51S .main {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
+.cid-rv9dxCy6BE .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-ru22uJQ51S .main .mbr-section-btn {
-  text-align: right;
+.cid-rv9dxCy6BE .formoid {
+  margin: auto;
 }
-.cid-ru22uJQ51S .btn {
-  margin: 0 0 .5rem 0;
+.cid-rv9dxCy6BE .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
-.cid-ru22uJQ51S H2 {
-  color: #000000;
+.cid-rv9dxCy6BE .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin: 0 !important;
+}
+.cid-rv9dxCy6BE a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-rv9dxCy6BE a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+@media (max-width: 768px) {
+  .cid-rv9dxCy6BE .mbr-form .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-rv9dxCy6BE .form-group,
+  .cid-rv9dxCy6BE .input-group-btn,
+  .cid-rv9dxCy6BE .input-group-btn .btn {
+    max-width: 300px;
+    width: 100%;
+  }
+}
+@media (min-width: 769px) {
+  .cid-rv9dxCy6BE .mbr-form .row > * {
+    padding: 0 0.5rem;
+  }
 }
 .cid-ru1VjlepXp {
   padding-top: 30px;
