@@ -2321,7 +2321,7 @@ body {
 .cid-rtVtcOnvIl {
   padding-top: 105px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/background48.jpg");
+  background-image: url("../../../assets/images/background42.jpg");
 }
 .cid-rtVtcOnvIl .title {
   margin-bottom: 2rem;
@@ -2747,7 +2747,7 @@ body {
   color: #767676 !important;
 }
 .cid-rtVfNrCX4b {
-  background-image: url("../../../assets/images/background48.jpg");
+  background-image: url("../../../assets/images/background42.jpg");
 }
 .cid-rtVfNrCX4b .form-control,
 .cid-rtVfNrCX4b .form-control:focus {
@@ -3766,11 +3766,6 @@ body {
 .cid-rtVIE5COcT .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rv9tyuzj9g {
-  padding-top: 120px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
 .cid-rtW2s0zHqm {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -3852,65 +3847,6 @@ body {
 }
 .cid-rtW2s0zHqm .head-item {
   text-align: left;
-}
-.cid-rv9w0qvN3F {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #f9f9f9;
-}
-.cid-rv9w0qvN3F p {
-  color: #767676;
-}
-.cid-rv9w0qvN3F .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rv9w0qvN3F .accordion-content {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-rv9w0qvN3F .panel-group {
-  width: 100%;
-}
-.cid-rv9w0qvN3F .card {
-  border-radius: 0px;
-  margin-bottom: -1px;
-}
-.cid-rv9w0qvN3F .card .card-header {
-  border-radius: 0px;
-  border: 0px;
-  padding: 0;
-}
-.cid-rv9w0qvN3F .card .card-header a.panel-title {
-  margin-bottom: 0;
-  font-style: normal;
-  font-weight: 500;
-  display: block;
-  text-decoration: none !important;
-  margin-top: -1px;
-  line-height: normal;
-}
-.cid-rv9w0qvN3F .card .card-header a.panel-title:focus {
-  text-decoration: none !important;
-}
-.cid-rv9w0qvN3F .card .card-header a.panel-title h4 {
-  padding: 1.3rem 2rem;
-  border: 1px solid #dfdfdf;
-  margin-bottom: 0;
-}
-.cid-rv9w0qvN3F .card .card-header a.panel-title h4 .sign {
-  padding-right: 1rem;
-}
-.cid-rv9w0qvN3F .mbr-figure {
-  -webkit-align-self: flex-start;
-  align-self: flex-start;
-  padding-left: 4rem;
-}
-@media (max-width: 991px) {
-  .cid-rv9w0qvN3F .mbr-figure {
-    padding-right: 0;
-    padding-left: 0;
-    padding-top: 2rem;
-  }
 }
 .cid-rv9tWR7fUi {
   padding-top: 135px;
